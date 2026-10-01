@@ -1,2 +1,2 @@
-# rwanyangwe-high-scholl
+# rwanyangwe-high-school
 my school website
